@@ -1,2 +1,3 @@
 # hello-world
-My first time use Github.
+
+Want to be the best in the industry.
